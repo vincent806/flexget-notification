@@ -132,7 +132,6 @@ This repository aims to provide notification plugin for flexget.  The following 
 ```
 - WxBot
 ```
-
     notify:
       task:
         title: "Torrent download started"
