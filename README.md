@@ -14,7 +14,7 @@ This repository aims to provide notification plugin for flexget.  The following 
 2. Restart flexget
 3. Refer to the following example to configure the notification plugin
 
-- Bark
+- [Bark](https://github.com/Finb/Bark)
 ```
     notify:
       task:
@@ -38,7 +38,7 @@ This repository aims to provide notification plugin for flexget.  The following 
               level: "active"           #optional
               sound: "birdsong"         #optional
 ```
-- ServerChan
+- [ServerChan](https://sct.ftqq.com/)
 ```
     notify:
       task:
@@ -56,7 +56,7 @@ This repository aims to provide notification plugin for flexget.  The following 
           - serverchan:
               sckey: <your-sckey>
 ```
-- PushPlus
+- [PushPlus](https://www.pushplus.plus/)
 ```
     notify:
       task:
@@ -74,7 +74,7 @@ This repository aims to provide notification plugin for flexget.  The following 
           - pushplus:
               token: <your-token>
 ```
-- Iyuu
+- [Iyuu](https://iyuu.cn/)
 ```
     notify:
       task:
@@ -92,7 +92,7 @@ This repository aims to provide notification plugin for flexget.  The following 
           - iyuu:
               token: <your-token>
 ```
-- DingTalk
+- [DingTalk](https://open.dingtalk.com/document/robots/custom-robot-access)
 ```
     notify:
       task:
@@ -111,7 +111,7 @@ This repository aims to provide notification plugin for flexget.  The following 
               secret: <your-secret>
               webhook: <your-webhook-url>
 ```
-- FeiShu
+- [FeiShu](https://www.feishu.cn/hc/zh-CN/articles/360024984973)
 ```
     notify:
       task:
@@ -130,7 +130,7 @@ This repository aims to provide notification plugin for flexget.  The following 
               secret: <your-secret>
               webhook: <your-webhook-url>
 ```
-- WxBot
+- [WxBot](https://developer.work.weixin.qq.com/document/path/91770)
 ```
     notify:
       task:
