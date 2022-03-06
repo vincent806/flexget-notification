@@ -1,3 +1,5 @@
+## Language
+English [中文](README-CN.md)
 ## Description
 This repository aims to provide notification plugin for flexget.  The following message channels are supported.
 
